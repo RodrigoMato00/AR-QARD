@@ -17,7 +17,7 @@
 
 [AR-QARD](https://rodrigomato00.github.io/AR-QARD/)
 
-![Text](/resources/models/QR_AR-QARD.png | width=100)
+![Text](/resources/models/QR_AR-QARD.png=100x100)
 
 ## Pattern-Marker
 
