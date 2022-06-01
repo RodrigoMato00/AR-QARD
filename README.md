@@ -17,7 +17,7 @@
 
 [AR-QARD](https://rodrigomato00.github.io/AR-QARD/)
 
-<img src="https://github.com/RodrigoMato00/AR-QARD/blob/master/resources/models/QR_AR-QARD.png" data-canonical-src="https://github.com/RodrigoMato00/AR-QARD/blob/master/resources/models/QR_AR-QARD.png" width="200" height="200" />
+<img src="https://rodrigomato00.github.io/AR-QARD/" data-canonical-src="https://github.com/RodrigoMato00/AR-QARD/blob/master/resources/models/QR_AR-QARD.png" width="200" height="200" />
 
 ## Pattern-Marker
 
