@@ -12,6 +12,7 @@
 #### - Clickable icons in AR and these redirect to the web site that corresponds to the user.
 
 ![Text](/resources/models/QARD.mp4)
+[![QARD]({/resources/models/logo.jpeg})]({/resources/models/QARD.mp4} "QARD")
 
 ## My QARD
 
